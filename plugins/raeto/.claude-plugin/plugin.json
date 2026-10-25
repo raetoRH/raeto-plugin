@@ -1,0 +1,9 @@
+{
+  "name": "raeto",
+  "version": "0.1.0",
+  "description": "Connect Claude Code to Raeto: ask any of 400+ models, use paid tools, pay APIs with Raeto Pay and run agents with their own wallets and budgets, all paid from your Raeto credits.",
+  "author": { "name": "Raeto", "url": "https://raeto.cc" },
+  "homepage": "https://raeto.cc/developers",
+  "license": "MIT",
+  "keywords": ["ai", "models", "agents", "payments", "mcp"]
+}

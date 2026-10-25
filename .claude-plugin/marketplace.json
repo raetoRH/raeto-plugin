@@ -1,0 +1,16 @@
+{
+  "name": "raeto",
+  "owner": { "name": "Raeto", "url": "https://raeto.cc" },
+  "metadata": { "description": "Raeto for Claude Code: 400+ AI models, paid tools, Raeto Pay and agent wallets, paid from one balance of Raeto credits." },
+  "plugins": [
+    {
+      "name": "raeto",
+      "source": "./plugins/raeto",
+      "description": "Connect Claude Code to Raeto: ask any of 400+ models, use paid tools, pay APIs with Raeto Pay and run agents with their own wallets and budgets.",
+      "version": "0.1.0",
+      "homepage": "https://raeto.cc/developers",
+      "category": "development",
+      "keywords": ["ai", "models", "agents", "payments", "mcp"]
+    }
+  ]
+}

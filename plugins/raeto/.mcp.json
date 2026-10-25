@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "raeto": {
+      "type": "http",
+      "url": "https://api.raeto.cc/mcp"
+    }
+  }
+}
